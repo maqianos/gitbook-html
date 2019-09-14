@@ -6,7 +6,7 @@
 
 > 常见的块元素有`h1~h6/p/div/ul/ol/li`等，其中`div`标签是最典型的块元素。
 
-![xtf.jpg](https://image.dyxmq.cn/images/2019/09/13/xtf.jpg)
+![xtf.jpg](../images/css/pic7_1.jpg)
 
 块级元素的特点：
 

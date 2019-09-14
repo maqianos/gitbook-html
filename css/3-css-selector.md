@@ -4,7 +4,7 @@
 
 要想将CSS样式应用于特定的HTML元素，首先需要找到该目标元素。在CSS中，执行这一任务的样式规则部分被称为选择器（选择符）。
 
-![ax.png](https://image.dyxmq.cn/images/2019/09/14/xhr.jpg)
+![xhr](../images/css/pic3_1.jpg)
 
 如上图所示，要把里面的小黄人分为2组，比如 一只眼睛的一组，剩下的一组。最快的方法怎办？这就用到基础选择器组。
 
@@ -50,7 +50,7 @@
 
 使用css制作谷歌logo：
 
-![go.png](https://image.dyxmq.cn/images/2019/09/13/go.png)
+![gogole](../images/css/pic3_2.png)
 
 代码：
 
@@ -89,7 +89,7 @@
 
 我们可以给标签指定多个类名，从而达到更多的选择目的。以淘宝网为例，很多标签都是同时指定了多个类名：
 
-![lei.png](https://image.dyxmq.cn/images/2019/09/13/lei.png)
+![lei.png](../images/css/pic3_3.png)
 
 注意：
 
@@ -125,7 +125,7 @@ id选择器好比人的身份证号码，全中国是唯一的，不得重复，
 
 > id选择器和类选择器最大的不同在于使用次数上。
 
-![zfb.jpg](https://image.dyxmq.cn/images/2019/09/13/zfb.jpg)
+![zfb.jpg](../images/css/pic3_4.jpg)
 
 ## 六、通配符选择器
 
@@ -193,7 +193,7 @@ li:nth-child(4) {   /* 选择第4个孩子  n  代表 第几个的意思 */
 
 ### 7.3 目标伪类选择器(CSS3)
 
-`:target`目标伪类选择器 :选择器可用于选取当前活动的目标元素
+`:target`目标伪类选择器 :选择器可用于选取当前活动的目标元素。
 
 ~~~css
 :target {

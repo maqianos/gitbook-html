@@ -64,6 +64,6 @@ text-shadow:水平位置 垂直位置 模糊距离 阴影颜色;
 
 前两项是必须写的，后两项可以选写。
 
-![1498467502625](https://image.dyxmq.cn/images/2019/09/13/1498467502625.png) 
+![](../images/css/pic5_1.png) 
 
-![1498467519665](https://image.dyxmq.cn/images/2019/09/13/1498467519665.png)    
+![](../images/css/pic5_2.png)    

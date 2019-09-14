@@ -4,7 +4,7 @@
 
 font-size属性用于设置字号，该属性的值可以使用相对长度单位，也可以使用绝对长度单位。其中，相对长度单位比较常用，推荐使用像素单位px，绝对长度单位使用较少。具体如下：
 
-![image25b70b50c73aa910.png](https://image.dyxmq.cn/images/2019/09/14/image25b70b50c73aa910.png)
+![image25b70b50c73aa910.png](../images/css/pic2_1.png)
 
 ## 二、font-family:字体
 
@@ -33,7 +33,7 @@ p{ font-family:"微软雅黑";}
 
 方案二：在 CSS 直接使用 Unicode 编码来写字体名称可以避免这些错误。使用 Unicode 写中文字体名称，浏览器是可以正确的解析的。如`font-family: "\5FAE\8F6F\96C5\9ED1"`表示设置字体为“微软雅黑”。
 
-![](https://image.dyxmq.cn/images/2019/09/13/shs.png)
+![](../images/css/pic2_2.png)
 
 > 提示：可以通过escape()方法来测试属于什么字体。
 
